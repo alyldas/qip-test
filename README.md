@@ -2,4 +2,5 @@
 2. npm install && npm run dev (requires Node.js 14+)
 3. php artisan migrate
 4. php artisan queue:work
-Ut seems like there nothing i forgot about 🤷‍♂️
+
+It seems like there nothing i forgot about 🤷‍♂️
